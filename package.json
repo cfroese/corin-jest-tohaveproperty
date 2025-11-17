@@ -1,0 +1,17 @@
+{
+  "name": "corin-jest-tohaveproperty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "ts-jest": "^29.4.5",
+    "typescript": "5.2.2"
+  }
+}
